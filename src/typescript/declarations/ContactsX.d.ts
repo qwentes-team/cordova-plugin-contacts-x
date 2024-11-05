@@ -3,7 +3,7 @@
 /// <reference path="./interfaces/permission-result.d.ts" />
 /// <reference path="./interfaces/ContactX.d.ts" />
 
-declare module 'cordova-plugin-contacts-x' {
+declare module '@qwentes/cordova-plugin-contacts-x' {
 
   export default class ContactsX {
 

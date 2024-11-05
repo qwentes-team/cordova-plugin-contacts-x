@@ -1,4 +1,4 @@
-declare module 'cordova-plugin-contacts-x' {
+declare module '@qwentes/cordova-plugin-contacts-x' {
 
   interface FindOptionsFields {
     displayName?: boolean;
